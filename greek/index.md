@@ -5,6 +5,6 @@ title: Texts in Greek
 
 Works of  Claudius Ptolemy:
 
-- *Harmonics*
-- *Almagest*
+- [*Harmonics*](harmonics/)
+- [*Almagest*](almagest/)
 - *Geography*
